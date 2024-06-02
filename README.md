@@ -26,7 +26,7 @@
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Bapuatole3131&repo=Royalboy&theme=flag-india)
 
 [![GIF](https://github.com/Bapuatole3131/Royalboyblob/main/Bapuatole3131.gif)](https://github.com/Bapuatole3131)
-   [![VIP BOY](https://github-stats-alpha.vercel.app/api?username=Bapuatole3131 "Bapuatole3131")](https://github-stats-alpha.vercel.app/api?username=Bapuatole3131 "Bapuatole3131)
+   [![VIP BOY](https://github-stats-alpha.vercel.app/api?username=Bapuatole3131 "Bapuatole3131")](https://github-stats-alpha.vercel.app/api?username=Bapuatole3131 "Bapuatole3131")
 
 
 <p align="center">
